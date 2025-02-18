@@ -2,8 +2,9 @@
 MPA-MLF
 This repository contains lab responses for labs Machine learning fundamentals MLA-MLF, taught at Brno University on Technology (BUT), Czech Republic
 
-Lab list
-Python basics
+Lab list :
+
+Python basics /n
 Kmeans
 SVM
 PCA
